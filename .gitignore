@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+HomeWorkJava_2.iml
 .apt_generated
 .classpath
 .factorypath
@@ -12,6 +13,7 @@ out/
 .springBeans
 .sts4-cache
 bin/
+.idea/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
