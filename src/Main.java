@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
 
         int price = 25578;
-        int one_mile = 20;
+        int oneMile = 20;
 
         System.out.println("Начислено миль:");
-        System.out.println(price / one_mile);
+        System.out.println(price / oneMile);
 
     }
 }
