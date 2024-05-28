@@ -3,10 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        int x = 25578;
-        int y = 20;
+        int price = 25578;
+        int one_mile = 20;
 
-        System.out.println(x / y);
+        System.out.println("Начислено миль:");
+        System.out.println(price / one_mile);
 
     }
 }
